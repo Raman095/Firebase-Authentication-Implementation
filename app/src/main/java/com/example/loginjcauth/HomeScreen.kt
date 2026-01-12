@@ -25,7 +25,7 @@ import com.google.firebase.auth.auth
 @Composable
 fun HomeScreen(navController: NavHostController) {
     val context = LocalContext.current
-    val webClientId = "526728699004-6qm44jpqu0c4bppamrsasvnm9l87mdf1.apps.googleusercontent.com"
+    val webClientId = "web-client Id, get it from firebase."
 
     Box(
         modifier = Modifier.fillMaxSize()
