@@ -28,7 +28,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyALpHobPBAg7JVyDRq-EwLQ5DwSeyVyhDk"
+          "current_key": "Google API Key, just download the new google-services.json from firebase, if you want this project to work."
         }
       ],
       "services": {
