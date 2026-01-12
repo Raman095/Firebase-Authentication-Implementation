@@ -47,7 +47,7 @@ fun LoginScreen(navController: NavHostController) {
         // DEFAULT_SIGN_IN: Basic profile info.
         GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
             // .requestIdToken(...): Requests an ID token (needed to authenticate with Firebase).
-            .requestIdToken("526728699004-6qm44jpqu0c4bppamrsasvnm9l87mdf1.apps.googleusercontent.com")
+            .requestIdToken("get web=client from firebase.")
             // .requestEmail(): Requests the user’s email.
             .requestEmail()
             .build()
