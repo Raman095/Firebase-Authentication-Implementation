@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526728699004",
+    "project_id": "login-jc-auth-login-jc-auth",
+    "storage_bucket": "login-jc-auth-login-jc-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526728699004:android:cac1f253416e684aa93df9",
+        "android_client_info": {
+          "package_name": "com.example.loginjcauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526728699004-bc2esjphmksmgc8ku60iqqrgckm154hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginjcauth",
+            "certificate_hash": "488ed2334e7b1c0c22836c43b0b5ebacf17bbabf"
+          }
+        },
+        {
+          "client_id": "526728699004-6qm44jpqu0c4bppamrsasvnm9l87mdf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALpHobPBAg7JVyDRq-EwLQ5DwSeyVyhDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526728699004-6qm44jpqu0c4bppamrsasvnm9l87mdf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
