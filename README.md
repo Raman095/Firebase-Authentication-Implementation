@@ -33,17 +33,15 @@ This project focuses on clean architecture, proper state management, and real-wo
 
 > ⚠️ Create a folder named `images` in your project and place your screenshots there.
 
-### 🔐 Google Account Picker
-![Google Account Picker](images/google_account_picker.jpg)
+<p align="center">
+  <img src="images/WhatsApp Image 2026-02-11 at 10.34.22 AM (1).jpeg" width="300"/>
+  <img src="images/WhatsApp Image 2026-02-11 at 10.34.22 AM.jpeg" width="300"/>
+</p>
 
-### 🔁 Forgot Password Dialog
-![Forgot Password](images/forgot_password.jpg)
-
-### 🆕 Sign Up Screen
-![Sign Up](images/sign_up.jpg)
-
-### 🔑 Login Screen
-![Login](images/login.jpg)
+<p align="center">
+  <img src="images/WhatsApp Image 2026-02-11 at 10.34.23 AM (1).jpeg" width="300"/>
+  <img src="images/WhatsApp Image 2026-02-11 at 10.34.23 AM.jpeg" width="300"/>
+</p>
 
 ---
 
