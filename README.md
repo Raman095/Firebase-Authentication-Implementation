@@ -31,7 +31,6 @@ This project focuses on clean architecture, proper state management, and real-wo
 
 ## 📸 Screenshots
 
-> ⚠️ Create a folder named `images` in your project and place your screenshots there.
 
 <p align="center">
   <img src="images/WhatsApp Image 2026-02-11 at 10.34.22 AM (1).jpeg" width="300"/>
