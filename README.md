@@ -42,6 +42,16 @@ This project focuses on clean architecture, proper state management, and real-wo
   <img src="images/WhatsApp Image 2026-02-11 at 10.34.23 AM.jpeg" width="300"/>
 </p>
 
+<p align="center">
+  <img src="images/WhatsApp Video 2026-02-11 at 11.03.41 AM.gif" width="300"/>
+  <img src="images/WhatsApp Image 2026-02-11 at 11.03.41 AM.jpeg" width="300"/>
+</p>
+
+<p align="center">
+  <img src="images/WhatsApp Video 2026-02-11 at 11.10.16 AM.gif" width="300"/>
+  <img src="images/WhatsApp Video 2026-02-11 at 11.10.20 AM.gif" width="300"/>
+</p>
+
 ---
 
 ## 🏗️ Architecture
